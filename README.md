@@ -1,0 +1,1 @@
+# lnt_sample_go_api
