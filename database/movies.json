@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "name": "Matrix",
+        "overview": "Um hacker descobre a verdade sobre sua realidade.",
+        "posterurl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",
+        "genres": "Ação, Ficção Científica"
+    },
+    {
+        "id": 2,
+        "name": "Interestelar",
+        "overview": "Exploradores viajam pelo espaço em busca de um novo lar para a humanidade.",
+        "posterurl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6ricSDD83BClJsFdGB6x7cM0MFQ.jpg",
+        "genres": "Drama, Ficção Científica"
+    },
+    {
+        "id": 3,
+        "name": "Soylent Green",
+        "overview": "Em um futuro distópico, um detetive investiga o mistério por trás de um novo produto alimentar chamado Soylent Green.",
+        "posterurl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1AH9Sxg5RXWXn3jf81ngHuq2jzz.jpg",
+        "genres": "Ação, Aventura"
+    },
+    {
+        "id": 4,
+        "name": "Forrest Gump",
+        "overview": "A vida extraordinária de um homem simples e bondoso.",
+        "posterurl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d74WpIsH8379TIL4wUxDneRCYv2.jpg",
+        "genres": "Drama, Romance"
+    },
+    {
+        "id": 5,
+        "name": "Clube da Luta",
+        "overview": "Dois homens fundam um clube secreto de luta.",
+        "posterurl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mCICnh7QBH0gzYaTQChBDDVIKdm.jpg",
+        "genres": "Drama, Suspense"
+    },
+    {
+        "id": 6,
+        "name": "A Origem",
+        "overview": "Um ladrão invade sonhos para roubar segredos.",
+        "posterurl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
+        "genres": "Ação, Ficção Científica"
+    },
+    {
+        "id": 7,
+        "name": "Solaris",
+        "overview": "Solaris é um planeta distante, que vem sendo constantemente estudado há décadas, e cujo mistério sobre seu oceano ainda não foi esclarecido, nem seus efeitos",
+        "posterurl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xabQ3ljbRpUYbYxJiRfq7WT15p.jpg",
+        "genres": "Drama, Romance"
+    },
+    {
+        "id": 8,
+        "name": "O Poderoso Chefão",
+        "overview": "A saga da família mafiosa Corleone.",
+        "posterurl": "https://upload.wikimedia.org/wikipedia/pt/0/0c/The_Godfather_poster.jpg",
+        "genres": "Crime, Drama"
+    },
+    {
+        "id": 9,
+        "name": "Star Wars: Uma Nova Esperança",
+        "overview": "A luta da Aliança Rebelde contra o Império Galáctico.",
+        "posterurl": "https://upload.wikimedia.org/wikipedia/pt/8/8e/Star_Wars_Poster.jpg",
+        "genres": "Aventura, Ficção Científica"
+    },
+    {
+        "id": 10,
+        "name": "Jurassic Park",
+        "overview": "Dinossauros são clonados e escapam em parque temático.",
+        "posterurl": "https://upload.wikimedia.org/wikipedia/pt/2/26/Jurassic_Park_poster.jpg",
+        "genres": "Aventura, Ficção Científica"
+    },
+    {
+        "id": 11,
+        "name": "Stalker",
+        "overview": "Um misterioso acidente deixou um lugar inabitável. Para evitar a aproximação de curiosos o lugar foi isolado e é protegido por soldados o tempo todo, sendo conhecido como A Zona.",
+        "posterurl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ftyrhQS0Kedc55ev4IgBlKSF0ez.jpg",
+        "genres": "Animação, Aventura"
+    },
+    {
+        "id": 12,
+        "name": "De Volta para o Futuro",
+        "overview": "Um jovem viaja no tempo com a ajuda de um cientista excêntrico.",
+        "posterurl": "https://upload.wikimedia.org/wikipedia/pt/9/9a/BackFuturePoster.jpg",
+        "genres": "Aventura, Ficção Científica"
+    },
+    {
+        "id": 13,
+        "name": "Os Intocáveis",
+        "overview": "A amizade entre um tetraplégico rico e seu cuidador.",
+        "posterurl": "https://upload.wikimedia.org/wikipedia/pt/6/6b/Intouchables_poster.jpg",
+        "genres": "Drama, Comédia"
+    },
+    {
+        "id": 14,
+        "name": "O Exorcista",
+        "overview": "Uma jovem é possuída por uma entidade demoníaca.",
+        "posterurl": "https://upload.wikimedia.org/wikipedia/pt/7/7e/The_Exorcist_poster.jpg",
+        "genres": "Terror, Suspense"
+    },
+    {
+        "id": 15,
+        "name": "O Iluminado",
+        "overview": "Uma família enfrenta forças sobrenaturais em hotel isolado.",
+        "posterurl": "https://upload.wikimedia.org/wikipedia/pt/6/6c/The_Shining_poster.jpg",
+        "genres": "Terror, Suspense"
+    },
+    {
+        "id": 16,
+        "name": "Metropolis",
+        "overview": "O futuro ė distante e o mundo está sob o comando dos poderosos, que isolaram os mais pobres no subsolo como se fossem seus escravos, para que trabalhassem em prol dos mesmos.",
+        "posterurl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xBx21HvGJCb15PKWkyb7uc435Wx.jpg",
+        "genres": "Crime, Drama"
+    },
+    {
+        "id": 17,
+        "name": "Nosferatu, o Vampiro da Noite",
+        "overview": "Jonathan Harker é enviado à Transilvânia para completar a negociação de algumas propriedades com um homem chamado Conde Drácula.",
+        "posterurl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mJozCdRVQ20ppkq6Qu9uet0gjuK.jpg",
+        "genres": "Crime, Drama"
+    },
+    {
+        "id": 18,
+        "name": "Pulp Fiction: Tempo de Violência",
+        "overview": "Histórias entrelaçadas de crime em Los Angeles.",
+        "posterurl": "https://upload.wikimedia.org/wikipedia/pt/8/82/Pulp_Fiction_cover.jpg",
+        "genres": "Crime, Drama"
+    },
+    {
+        "id": 19,
+        "name": "2001: A Space Odyssey",
+        "overview": "Desde a “Aurora do Homem” (a pré-história), um misterioso monólito negro parece emitir sinais de outra civilização, assim interferindo no nosso planeta.",
+        "posterurl": "https://www.themoviedb.org/t/p/w1280/9jPHKChBVWfWxXYO1yN4FZF1U2S.jpg",
+        "genres": "Ficção Científica"
+    },
+    {
+        "id": 20,
+        "name": "Thank You for Smoking",
+        "overview": "Nick Naylor (Aaron Eckhart) é o principal porta-voz das grandes empresas de cigarros, ganhando a vida defendendo os direitos dos fumantes nos Estados Unidos.",
+        "posterurl": "https://www.themoviedb.org/t/p/w1280/1TnnktqvgWLerkBJXkB2v9qRs7U.jpg",
+        "genres": "Comédia, Drama"
+    },
+    {
+        "id": 23,
+        "name": "The Prestige",
+        "overview": "No século 19, em Londres, dois amigos ilusionistas e mágicos, Alfred Borden e Rupert Angier, acabam construindo uma rivalidade,",
+        "posterurl": "https://www.themoviedb.org/t/p/w1280/4AUW2bGbQjWACUREckGJWXmyF0d.jpg",
+        "genres": "Drama, Mistério, Ficção Científica"
+    }
+]
